@@ -175,7 +175,7 @@ header p {
 .gallery {
   padding: 80px 20px;
   text-align: center;
-  background-color: lightblue;
+  background-color: rgb(73, 38, 38);
 }
 
 .gallery h2 {
